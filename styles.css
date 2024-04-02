@@ -388,6 +388,10 @@ article .icon {
     border-color: rgb(163, 163, 163);
 }
 
+.desc-proj {
+  margin-bottom: 10px;
+}
+
 /* CONTACT */
 
 #contact {
